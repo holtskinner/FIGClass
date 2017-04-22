@@ -1,5 +1,5 @@
 # Computer Science FIG A
-*Section ?*
+*Section 35*
 
 **Instructor**  
 Holt Skinner 🤓  
