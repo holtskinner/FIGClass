@@ -12,7 +12,7 @@ DeSouzaG@missouri.edu
 325 Naka Hall
 
 **FIG Coordinator**  
-Anna Valiavska 🐯 
+Anna Valiavska 🐯   
 ValiavskaA@missouri.edu   
 C106 Pershing Hall
 
@@ -34,12 +34,12 @@ This class is a pass/fail course. To pass, students must complete ALL of the fol
 > Challenges will be submitted electronically via Canvas. Students will have the opportunity to redo a challenge after grading to improve. Late work will not be accepted after the due time. There is no Final Exam.
 
 **Attendance** 
->IF A STUDENT IS ABSENT 2 CLASSES, THEY **WILL** FAIL THE CLASS. If you have a valid reason for missing class (illness, job interview, etc.), you must notify the Instructor BEFORE the missed class.
+> IF A STUDENT IS ABSENT 2 CLASSES, THEY **WILL** FAIL THE CLASS. If you have a valid reason for missing class (illness, job interview, etc.), you must notify the Instructor BEFORE the missed class.
 
 **Important Dates**
 
-  Date			| Info 
- -----			| ------		
+  Date			     | Info 
+ -----			     | ------		
  Mon Aug 28      | Last Day to Add/Change Courses     
  Tue Sep 19      | Engineering Career Fair    
  Mon Sep 25      | Last Day to Drop                   
