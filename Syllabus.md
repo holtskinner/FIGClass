@@ -12,7 +12,7 @@ DeSouzaG@missouri.edu
 325 Naka Hall
 
 **FIG Coordinator**  
-Anna Valiavska 🐯   
+Anna Valiavska 🐙   
 ValiavskaA@missouri.edu   
 C106 Pershing Hall
 
