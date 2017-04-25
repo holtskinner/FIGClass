@@ -11,11 +11,11 @@
 |4 |        | Scavenger Hunt            |             |           |
 |5 |        | Advising                  | Degree Plan |           |
 |6 |        | Presentation 1/C Tips     |             |           |
-|7 |        | Study Abroad/Myers-Briggs |             | Diversity |
-|8 |        | Research                  |             | DeSouza   |
-|9 |        | Git/GitHub                |             |           |
+|7 |        | GitHub                    |             | Diversity |
+|8 |        | Hackathons 101            |             | Week of TigerHacks |
+|9 |        | Study Abroad/Myers-Briggs |             |           |
 |10|        | Security                  |             | Ethics    |
-|11|        | Big Picture               |             |           |
+|11|        | Big Picture/Research      |             |           |
 |12|        | Study in Emoji            |             | Diversity |
 |13|        | **NO CLASS**              |             |           |
 |14|        | Grand Challenge Final     |             |           |
