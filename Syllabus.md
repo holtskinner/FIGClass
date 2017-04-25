@@ -1,4 +1,4 @@
-# Computer Science FIG A
+# Computer Science FIG A 🖥
 *Section 35*
 
 **Instructor**  
