@@ -1,14 +1,14 @@
 # CS FIG AWeek 1
 ## Course Intro & IceBreakers
 
-### Introductions!
+## Introductions!
 
 - BRIEFLY introduce yourself
 - Name (I will try to remember it), Hometown, Why are you interested in CS, & Dream Job
 
-### [Syllabus](../Syllabus.md)
+## [Syllabus](../Syllabus.md)
 
-### Goals
+## Goals
 
 - Learn how to reach your full potential as a Computer Scientist
     - It's not just writing code
@@ -17,12 +17,12 @@
 - Gain practical & hands-on experience
 - Have fun!
 
-### Questions
+## Questions
 
 - Write a *legitimate* question on a piece of paper, fold it up, and place it on the table.
 - I will answer them anonymously and blatantly honest.
 
-### Mac vs PC Debate/Discussion
+## Mac vs PC Debate/Discussion
 
 - PC users on one side of the room, Mac on the other.
     - Linux goes with Mac.
@@ -32,7 +32,7 @@
 
 - **By the way, you're arguing for the OPPOSITE side of what you use 😏😆**
 
-### Conclusion
+## Conclusion
 
 - Even though Mac is the obvious winner 😛, it really doesn't matter.
 - What does is what we can do in the future to make software/hardware that is better for everyone. 😊

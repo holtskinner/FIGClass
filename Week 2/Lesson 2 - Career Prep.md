@@ -1,40 +1,38 @@
 # CS FIG A Week 2
 ## Career Prep
 
-### Intro
+## Joke of the Day 😆
+
+![Vim](HumorVim.png)
+
+`[Esc] : wq` If you forgot already
+
+## Intro
 
 - Why are we talking about this already???
 - *SURPRISE!* The Engineering Career Fair is September 19!
 - Summer Internships are HUGE advantages when applying for full-time.
     - Get your foot in the door early.
 
-### [Syllabus](../Syllabus.md)
+## Logistics
 
-### Goals
+- September 19 10AM - 3PM @ Mizzou Arena
+    - Show up early if possible!
+- Professional Attire Required
+- Shuttles from Alumni Center every 15 Minutes
+- Research Companies beforehand!
+    - See what majors/positions they're hiring for
+- Bring lots of copies of your resume (more on that in a minute)
+- Get business cards and add recruiters/engineers on LinkedIn
 
-- Learn how to reach your full potential as a Computer Scientist
-    - It's not just writing code
-- Make ever long-lasting friendships (we’ll see about that)
-- Expand knowledge outside of regular classes
-- Gain practical & hands-on experience
-- Have fun!
+## Challenge 1
 
-### Questions
+- Make a technical resume for the Career Fair
+- Create LinkedIn and GitHub Profiles
+- Due 1 week from today @ 6PM
+- I will give very detailed feedback
+- Ask for help if needed!
 
-- Write a *legitimate* question on a piece of paper, fold it up, and place it on the table.
-- I will answer them anonymously and blatantly honest.
+**[Resume Challenge](ResumeChallenge.md)**
 
-### Mac vs PC Debate/Discussion
-
-- PC users on one side of the room, Mac on the other.
-    - Linux goes with Mac.
-- Get out laptops or other internet-connected device.
-- Each team will have 5 minutes to research.
-- You can elect a single person to talk for your team, or each say your own thing.
-
-- **By the way, you're arguing for the OPPOSITE side of what you use 😏😆**
-
-### Conclusion
-
-- Even though Mac is the obvious winner 😛, it really doesn't matter.
-- What does is what we can do in the future to make software/hardware that is better for everyone. 😊
+![Yik Yak](YikYak.png)

@@ -1,7 +1,7 @@
 # Resume Challenge
 ## Due ???
 
-**To pass this challenge, students must:**
+**Passing Critera**
 
 - Create a technical resume with the following
     - Name & Contact info clearly listed
@@ -15,9 +15,9 @@
 - Create a GitHub Profile
     - For brownie points, Connect with Holt & Dr. DeSouza.
     - 🤓 [LinkedIn](https://linkedin.com/in/holtwashere) [GitHub](https://github.com/holtwashere)
-    - 🤖 [LinkedIn](https://www.linkedin.com/in/guilherme-desouza-283baa32/)
+    - 🤖 [LinkedIn](https://www.linkedin.com/in/guilherme-desouza-283baa32/) [GitHub](https://github.com/GNDeSouza)
 
-- Submit resume in PDF form and links to profiles on Canvas
+- Submit Resume in PDF form and links to profiles on Canvas
 
 ## Resources
 
