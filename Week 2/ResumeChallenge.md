@@ -1,7 +1,7 @@
 # Resume Challenge
 ## Due ???
 
-**Passing Critera**
+**Passing Criteria**
 
 - Create a technical resume with the following
     - Name & Contact info clearly listed
