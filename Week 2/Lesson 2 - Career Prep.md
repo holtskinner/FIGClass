@@ -1,10 +1,12 @@
-# CS FIG AWeek 1
-## Course Intro & IceBreakers
+# CS FIG A Week 2
+## Career Prep
 
-### Introductions!
+### Intro
 
-- BRIEFLY introduce yourself
-- Name (I will try to remember it), Hometown, Why are you interested in CS, & Dream Job
+- Why are we talking about this already???
+- *SURPRISE!* The Engineering Career Fair is September 19!
+- Summer Internships are HUGE advantages when applying for full-time.
+    - Get your foot in the door early.
 
 ### [Syllabus](../Syllabus.md)
 

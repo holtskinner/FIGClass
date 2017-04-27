@@ -1,7 +1,7 @@
 # Degree Plan Challenge
 ## Due ???
 
-**To pass this challenge, students must:**
+**Criteria for Passing**
 
 - Create a minimum 2 Semester Degree Plan with the following
     - Name, Major and Planned Minors
@@ -12,7 +12,7 @@
 
 - Seek advice from Advisors and upperclass students in same major about courses.
 
-- NOT copy the sample 4 year plan on the College of Engineering Website. (It is not optimal)
+- Do NOT copy the sample 4 year plan on the College of Engineering Website. (It is not optimal)
 
 ## Resources
 
