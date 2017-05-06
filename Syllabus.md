@@ -55,3 +55,6 @@ This class is a pass/fail course. To pass, students must complete ALL of the fol
 
 **Intellectual Pluralism** 
 > The University community welcomes intellectual diversity and respects student rights. Students who have questions or concerns regarding the atmosphere in this class (including respect for diverse opinions) may contact the Departmental Chair or Divisional Director; the Director of the Office of Students Rights and Responsibilities (http://osrr.missouri.edu/); or the MU Equity Office (http://equity.missouri.edu/), or by email at equity@missouri.edu. All students will have the opportunity to submit an anonymous evaluation of the instructor(s) at the end of the course.
+
+**MU Connect**
+> This ourse is taking part in a student success “early alert” initiative at the University of Missouri called MU CONNECT. Throughout the semester, you may receive emails from MU CONNECT regarding your course grades, attendance, or academic performance. You can also login to Canvas (http://missouri.instructure.com) and click on the MU CONNECT tab to view academic alerts and detailed information. Please pay attention to these emails and information in MU CONNECT and consider taking the recommended actions. They are sent to help you be successful.
