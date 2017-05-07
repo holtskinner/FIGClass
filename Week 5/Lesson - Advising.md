@@ -2,9 +2,9 @@
 
 ## My Mouse isn't Working! 🐭
 
-![](Mouse.png)
+![Mouse](Mouse.png)
 
-## Doesn't Adrianna/Tami plan my degree for me???
+## Doesn't Adrianna/Tami/Victor plan my degree for me???
 
 - Not really
 - They offer advice, but it’s ultimately up to you on what classes you take and when
@@ -26,7 +26,8 @@
 - You can apply while you are currently enrolled in the final required classes.
 - Each department has specific requirements to get in (classes, GPA)
 
-http://engineering.missouri.edu/advising/undeclared-student-policy/
+http://engineering.missouri.edu/advising/undeclared-student-policy/  
+
 http://engineering.missouri.edu/current-students/change-major-department-division/
 
 ## Challenge 1

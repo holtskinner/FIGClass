@@ -1,5 +1,4 @@
-# CS FIG A Week 2
-## Career Prep
+# Career Prep
 
 ## Joke of the Day 😆
 
@@ -34,5 +33,7 @@
 - Ask for help if needed!
 
 **[Resume Challenge](ResumeChallenge.md)**
+
+![ResumeComic](ResumeComic.png)  
 
 ![Yik Yak](YikYak.png)

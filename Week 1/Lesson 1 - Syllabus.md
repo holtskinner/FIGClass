@@ -1,5 +1,8 @@
-# CS FIG AWeek 1
-## Course Intro & IceBreakers
+# Course Intro & IceBreakers
+
+## Joke(s) of the Day
+
+[20 Infuriating Things That Happen In Every College Class](https://www.buzzfeed.com/ryanschocket2/20-fucking-infuriating-things-that-happen-in-every-college)
 
 ## Introductions!
 
