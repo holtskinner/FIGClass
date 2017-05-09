@@ -65,6 +65,11 @@
     - Much more restrictive
     - Examples: Different Flavors of Linux (Ubuntu, RedHat) are Forks of the pure Linux kernel
 
+- gitignore
+    - Special file in repo that tells git which files to not keep track of.
+    - Executables (a.out)
+    - Weird stuff .DS_STORE
+    
 ## GitHub :octocat:
 
 - What’s the difference between Git and GitHub?
@@ -107,3 +112,24 @@
 5. Push Changes
     - After commit is made, click Sync in upper right corner
     - If it doesn’t work, let me know (You probably didn’t send your github username to me!!!)
+
+## How to post stuff from the 1050 Server to Github
+
+```bash
+cd [your 1050 folder]
+git init
+echo "*.d
+*.o
+*.ko
+*.obj
+*.elf
+*.exe
+*.out" > .gitignore
+echo "# I just made a git repo :)" > README.md
+git add .
+git commit -a -m "Init Repo"
+# Get link from the GitHub website
+git remote add origin https://github.com/holtwashere/Test.git
+# Enter GitHub Username and password after this line executes
+git push --set-upstream origin master
+```
