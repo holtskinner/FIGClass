@@ -65,11 +65,11 @@
     - Much more restrictive
     - Examples: Different Flavors of Linux (Ubuntu, RedHat) are Forks of the pure Linux kernel
 
-- gitignore
+- `.gitignore`
     - Special file in repo that tells git which files to not keep track of.
-    - Executables (a.out)
-    - Weird stuff .DS_STORE
-    
+    - Executables `a.out`
+    - Weird stuff `.DS_STORE`
+
 ## GitHub :octocat:
 
 - What’s the difference between Git and GitHub?
