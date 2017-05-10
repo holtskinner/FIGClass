@@ -148,8 +148,13 @@ git push --set-upstream origin master
 After the first time, you can follow the workflow.
 
 ```bash
-# Get any changes from the server
+# Get any changes from GitHub
 git pull
+
+# Make Code changes
+# Save Changes
 git commit -a -m "Message"
+
+# Send to github
 git push
 ```
