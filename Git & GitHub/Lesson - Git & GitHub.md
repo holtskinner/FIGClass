@@ -114,22 +114,42 @@
     - If it doesn’t work, let me know (You probably didn’t send your github username to me!!!)
 
 ## How to post stuff from the 1050 Server to Github
-
+Inside your 1050 folder
 ```bash
-cd [your 1050 folder]
+# Initializes the Repository
 git init
-echo "*.d
-*.o
-*.ko
-*.obj
-*.elf
-*.exe
-*.out" > .gitignore
+
+# Tells git to not track a.out files
+echo "*.out" > .gitignore
+
+# Creates a README file (You can change it later)
 echo "# I just made a git repo :)" > README.md
+
+# Tells git to stage all files in current directory for committing
+# You only need to type this if you added a new file
 git add .
+
+# Commits (Saves) 
+# -a everything that you added
+# -m "Commit message"
 git commit -a -m "Init Repo"
-# Get link from the GitHub website
+
+# Links Local Git Repo to GitHub Repo
+# Replace Url with your own repo URL
 git remote add origin https://github.com/holtwashere/Test.git
+
+# Sends all local commits to the GitHub server. (Puts it online)
+# --set-upstream tells git where to push in the future
+# master is the main branch
 # Enter GitHub Username and password after this line executes
 git push --set-upstream origin master
+```
+
+After the first time, you can follow the workflow.
+
+```bash
+# Get any changes from the server
+git pull
+git commit -a -m "Message"
+git push
 ```
