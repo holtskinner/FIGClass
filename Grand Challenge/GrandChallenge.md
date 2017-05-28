@@ -11,6 +11,7 @@
 - Research the topic
 
 - Create a Presentation that answers these questions
+
     1. Why as a group did you choose this Challenge?
     2. What is currently being done to contribute solving your Challenge?
     3. Your group’s proposal for solving the Challenge.
@@ -23,20 +24,22 @@
 
 ### End of Class Today
 
+In Writing:
+
 - Team Name
 - Team Members
 - Weekly Meeting Time
 - Which Challenge you have chosen
 - 1-2 sentence summary of what you want to do with it.
-- Set up a GroupMe
+- Set up a GroupMe/Some Method of Communication
 
-### Progress Presentation ???
+### Progress Presentation (September 28 in class)
 
-  - Present what you have so far.
-  - *< 5 Minutes*
-  - Make improvements based on comments.
+- Present what you have so far.
+- *< 5 Minutes*
+- Make improvements based on comments.
 
-### Full In-Class Presentation ???
+### Full Presentation (November 30 in class)
 
 - Everything Must be done!
 - Will need to defend solution against Holt & DeSouza (and possibly others)
