@@ -1,10 +1,12 @@
 # Computer Science FIG A 🖥
-*Section 35*
+*Section 35*  
+Thursdays 3:30PM-4:20PM   
+42 Walter Williams Hall - RJI Microsoft Lab  
 
 **Instructor**  
 Holt Skinner 🤓  
-hastg2@mail.missouri.edu  
-115 Gillett Hall
+SkinnerH@mail.missouri.edu  
+Gillett Hall
 
 **Co-Facilitator**  
 Dr. Guilherme DeSouza 🤖  
