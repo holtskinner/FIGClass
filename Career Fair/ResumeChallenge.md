@@ -1,5 +1,5 @@
 # Resume Challenge
-## Due ???
+## **Due:** 7 September @ 6PM on Canvas
 
 **Passing Criteria**
 

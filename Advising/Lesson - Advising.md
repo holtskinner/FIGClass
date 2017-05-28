@@ -30,14 +30,12 @@ http://engineering.missouri.edu/advising/undeclared-student-policy/
 
 http://engineering.missouri.edu/current-students/change-major-department-division/
 
-## Challenge 1
+## Degree Plan Challenge
 
-- Make a technical resume for the Career Fair
-- Create LinkedIn and GitHub Profiles
 - Due 1 week from today @ 6PM
-- I will give very detailed feedback
+- I will give detailed feedback
 - Ask for help if needed!
 
-**[Resume Challenge](ResumeChallenge.md)**
+**[Degree Plan Challenge](DegreePlanChallenge.md)**
 
 ![Yik Yak](YikYak.png)

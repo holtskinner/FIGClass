@@ -1,12 +1,12 @@
 # Degree Plan Challenge
-## Due ???
+## **Due:** 28 September @ 6PM on Canvas
 
 **Criteria for Passing**
 
-- Create a minimum 2 Semester Degree Plan with the following
+- Create a 2 Semester (minumum) Degree Plan with the following
     - Name, Major and Planned Minors
     - Each Semester Clearly Labeled
-    - Classes are all listed, are relevant and correctly labeled in a plausible order.
+    - Classes listed, relevant and correctly labeled in a plausible order.
 
 - Submit Co-enrollment form
 
@@ -19,3 +19,5 @@
 http://engineering.missouri.edu/cs/degree-programs/
 
 http://engineering.missouri.edu/ece/degree-programs/
+
+https://drive.google.com/drive/folders/0B_3gHm8Nt5xOWFlVa1JYdFJiZ3M

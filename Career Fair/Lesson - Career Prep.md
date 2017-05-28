@@ -24,10 +24,8 @@
 - Bring lots of copies of your resume (more on that in a minute)
 - Get business cards and add recruiters/engineers on LinkedIn
 
-## Challenge 1
+## Resume Challenge
 
-- Make a technical resume for the Career Fair
-- Create LinkedIn and GitHub Profiles
 - Due 1 week from today @ 6PM
 - I will give very detailed feedback
 - Ask for help if needed!

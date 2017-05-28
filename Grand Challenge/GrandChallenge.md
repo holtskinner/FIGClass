@@ -2,9 +2,9 @@
 
 # [Grand Challenges](http://www.engineeringchallenges.org/)
 
-**Due ???**
+## **Due:** November 30 @ 3:30PM
 
-## Passing Criteria
+**Criteria for Passing**
 
 - In teams, choose a Grand Challenge and propose a theoretical solution.
 
@@ -45,7 +45,7 @@ In Writing:
 - Will need to defend solution against Holt & DeSouza (and possibly others)
 - One group to go on to compete with the other Engineering FIGs.
 
-### Grand Challenge Competition
+### Grand Challenge Competition (TBD, December Probably)
 
 - Group chosen will be presenting to a panel of judges and your peers.
     - Prizes!!!
