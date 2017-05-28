@@ -20,6 +20,20 @@
 - Gain practical & hands-on experience
 - Have fun!
 
+## Rest of the Semester
+
+**Potential Topics**
+
+- Career Fair & Resume Prep
+- Easier Programming in C
+- Programming Languages
+- Git & GitHub
+- Web Dev
+- Security
+- Undergraduate Research
+- Study in Emoji
+- ???
+
 ## Questions
 
 - Write a *legitimate* question on a piece of paper, fold it up, and place it on the table.
