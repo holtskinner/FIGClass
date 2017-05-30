@@ -14,6 +14,10 @@
 
 # Misconceptions
 
+- Computer Science is just coding.
+
+https://www.quora.com/Since-programming-can-be-self-taught-why-not-major-in-something-other-than-computer-science/answer/Jayesh-Lalwani?ref=fb_page
+
 - What’s the difference between Java and JavaScript?
     - They are similar like "car" and "carpet."
     - It was a marketing ploy. Java was getting really popular when JavaScript was created, so…
