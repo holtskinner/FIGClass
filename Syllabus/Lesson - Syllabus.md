@@ -34,6 +34,37 @@
 - Study in Emoji
 - ???
 
+## Holt's tips for Surviving College Academics
+
+- Check your Email & Canvas! 💌
+    - Set up notifications
+- Arrogance impedes learning.
+    - Attend every class!
+    - Never stop learning!
+    - Don't take yourself too seriously!
+
+> The true sign of intelligence is knowing how much you don't know.
+
+- Learn how to Google & StackOverflow effictively.
+    - Read Documentation
+- Don't buy textbooks until you're absolutely sure you need them!
+- Get plenty of sleep. 😴
+- Never turn down an opportunity. (But know when to say no)
+    - Organizations
+    - Bonus Points
+    - Job Interviews
+- Don't cram!
+- Drink Coffee ☕️
+    - You're going to need it!
+- Computer Science is hard!
+    - Don't get stressed out
+    - Don't put off assignments
+    - Don't be afraid to ask for help
+- Learn how to manage/schedule your time
+- Get a (paying) job where you can study (Library, Computer Lab, etc)
+- Do something related to your career aspirations every summer (if you can)
+- Don't forget to enjoy yourself!
+
 ## Questions
 
 - Write a *legitimate* question on a piece of paper, fold it up, and place it on the table.
