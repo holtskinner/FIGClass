@@ -35,3 +35,11 @@
 ![ResumeComic](ResumeComic.png)  
 
 ![Yik Yak](YikYak.png)
+
+## Sample Interview Questions
+
+> Describe a project you worked on and what you contributed. 
+
+> What would you do if your engineering team is making a bad technical decision, and you’re the only one who knows about it. (Actual Question from Microsoft!)
+
+> Suppose you have 9 balls, and one is slightly heavier than the other. How do you find the heaviest one with a balance scale? (Only use the scale 2 times)
