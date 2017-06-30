@@ -78,9 +78,20 @@
 - Each team will have 5 minutes to research.
 - You can elect a single person to talk for your team, or each say your own thing.
 
+### Possible Areas to Cover
+- Usability / Design
+- How easy it is to code on. (You’d be surprised!)
+- Peformance
+- Price/Value
+- Ecosystem (Compatability with other products)
+- Customization
+- Gaming
+
 - **By the way, you're arguing for the OPPOSITE side of what you use 😏😆**
 
 ## Conclusion
 
 - Even though Mac is the obvious winner 😛, it really doesn't matter.
 - What does is what we can do in the future to make software/hardware that is better for everyone. 😊
+- You’re entering a very difficult, but rewarding field.
+- Go out and change the world, and stay curious!
