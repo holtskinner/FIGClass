@@ -15,7 +15,7 @@
 
 - Learn how to reach your full potential as a Computer Scientist
     - It's not just writing code
-- Make ever long-lasting friendships (we’ll see about that)
+- Make ever long-lasting friendships (we’ll see about that 😊)
 - Expand knowledge outside of regular classes
 - Gain practical & hands-on experience
 - Have fun!
@@ -25,7 +25,7 @@
 **Potential Topics**
 
 - Career Fair & Resume Prep
-- Easier Programming in C
+- *Easier* Programming in C
 - Programming Languages
 - Git & GitHub
 - Web Dev

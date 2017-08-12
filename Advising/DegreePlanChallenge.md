@@ -6,11 +6,11 @@
 - Create a 2 Semester (minumum) Degree Plan with the following
     - Name, Major and Planned Minors
     - Each Semester Clearly Labeled
-    - Classes listed, relevant and correctly labeled in a plausible order.
+    - Classes listed, relevant and correctly labeled in a *plausible* order.
 
 - Submit Co-enrollment form
 
-- Seek advice from Advisors and upperclass students in same major about courses.
+- Seek advice from advisors and older students in same major about courses.
 
 - Do NOT copy the sample 4 year plan on the College of Engineering Website. (It is not optimal)
 
