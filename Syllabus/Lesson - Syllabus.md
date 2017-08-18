@@ -45,7 +45,7 @@
 
 > The true sign of intelligence is knowing how much you don't know.
 
-- Learn how to Google & StackOverflow effictively.
+- Learn how to Google & StackOverflow effectively.
     - Read Documentation
 - Don't buy textbooks until you're absolutely sure you need them!
 - Get plenty of sleep. 😴
