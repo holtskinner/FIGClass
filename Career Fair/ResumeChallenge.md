@@ -9,7 +9,7 @@
     - General dates are used when listing important facts on the resume.
     - Content provided on the resume is explained clearly and professionally.
     - Technical Skills and Projects are listed in order of proficiency
-    - Resume is asthetically neat and easy to read
+    - Resume is aesthetically neat and easy to read
 
 - Create a LinkedIn Profile with same information as above.
 - Create a GitHub Profile
