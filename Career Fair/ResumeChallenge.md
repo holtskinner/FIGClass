@@ -10,8 +10,9 @@
     - Content provided on the resume is explained clearly and professionally.
     - Technical Skills and Projects are listed in order of proficiency
     - Resume is aesthetically neat and easy to read
+    - Links to GitHub and LinkedIn Profiles are listed
 
-- Create a LinkedIn Profile with same information as above.
+- Create a LinkedIn Profile
 - Create a GitHub Profile
     - For brownie points, Connect with Holt & Dr. DeSouza.
     - 🤓 [LinkedIn](https://linkedin.com/in/holtwashere) [GitHub](https://github.com/holtwashere)
