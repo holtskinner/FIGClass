@@ -1,11 +1,11 @@
 # Lost in Lafferre Scavenger Hunt
 
-> Break up into Groups of 3 (Different than your project groups!)
-> Do the math to find the room number that you are locating. (You’re engineers, this is what you do!) 
-> Search and search until you find the room; Take a selfie with each room when you find it. 📷
-> Find at least 20 rooms, and come back to where we started, I will check your pictures and you are done for the day!
-> I will only mark you as present if you come back. 😅
-> The first team to find all 27 and come back wins a mystery prize! 🎁
+> Break up into Groups of 3 (Different than your project groups!)  
+> Do the math to find the room number that you are locating. (You’re engineers, this is what you do!)   
+> Search and search until you find the room; Take a selfie with each room when you find it. 📷  
+> Find at least 20 rooms, and come back to where we started, I will check your pictures and you are done for the day!  
+> I will only mark you as present if you come back. 😅  
+> The first team to find all 27 and come back wins a mystery prize! 🎁  
 
 1. E 627.25(4) + 1 = <!-- **E2510** -->
 
@@ -47,7 +47,7 @@
 
 1. E 491 * 7 = <!-- **E3437** -->
 
-1. C 212 % 7 + 2200 = <!-- **C2202** -->
+1. C 15378 / 7689 + 2200 = <!-- **C2202** -->
 
 1. W 350 * 3 + 1 = <!-- **W1051** -->
 
