@@ -42,6 +42,7 @@ In Writing:
 ### Full Presentation (November 30 in class)
 
 - Everything Must be done!
+- 10 Minute Presentation in Class.
 - Will need to defend solution against Holt & DeSouza (and possibly others)
 - One group to go on to compete with the other Engineering FIGs.
 
