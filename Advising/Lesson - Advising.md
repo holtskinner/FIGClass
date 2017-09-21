@@ -17,6 +17,10 @@
 - Make sure you sign up! Tiger-hacks.com
 - Octiber 13 - 15, 2017
 
+## Don't Forget!
+
+- Grand Challenge Presentation 1 is next week in class!
+
 ## Introductions!!!
 
 - Welcome Anna Valiavska & Jordan Hamill
