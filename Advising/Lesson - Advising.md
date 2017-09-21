@@ -4,6 +4,23 @@
 
 ![Mouse](Mouse.png)
 
+## Announcements
+
+### Cultural Event
+
+- Cultural Event 5 Lesbians Eating a Quiche on October 1st at 7:30pm at the Stephen’s College Warehouse Theatre.
+  - I will have the tickets.
+  - We will meet in Gillett Lobby at 6:45PM to walk over.
+
+### TigerHacks
+
+- Make sure you sign up! Tiger-hacks.com
+- Octiber 13 - 15, 2017
+
+## Introductions!!!
+
+- Welcome Anna Valiavska & Jordan Hamill
+
 ## Doesn't Adrianna/Tami/Victor plan my degree for me???
 
 - Not really

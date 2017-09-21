@@ -261,6 +261,9 @@ div {
 
 ```
 
+# Map of Computer Science
+
+https://www.youtube.com/watch?v=SzJ46YA_RaA
 
 # Time vs. Space
 
@@ -268,3 +271,36 @@ Hard-drive/memory space vs processing time
 
 https://www.youtube.com/watch?v=blSzwPcL5Dw
 
+# Data Structures
+
+- Different ways of representing/storing data in memory
+- Used a lot for job interview questions, upper level classes and in the workforce.
+- Examples: Arrays, Vectors, Linked Lists, Stacks, Queues, Binary Trees, Hash Tables
+
+# C Structs
+
+- You will learn much more about this next semester in 2050
+- How you create structures in C
+- Think of it like a box that can store multiple kinds of data in one variable (int, char, double, pointers, etc.)
+```c
+    struct student {
+        char name[10];
+        int age;
+    }
+```
+
+# Object-Oriented Programming
+
+- Designed as a way to “modularize” and reuse code
+- C is not object-oriented
+- Majority of popular languages are OO
+- Java is most popular
+- Objects are nouns, methods are verbs
+- Like a structure, but with functions inside of it (called methods)
+- Variables inside objects are called fields
+- A class is a blueprint for an object
+- You can use objects and have them do things without knowing the inner workings of them.
+
+# Want to learn more?
+
+Crash Course Computer Science - Youtube
