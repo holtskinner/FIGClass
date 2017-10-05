@@ -1,10 +1,25 @@
 # Intro to Git & GitHub
 
+## Announcements
+
+- Degree Plan Due tonight @ 6PM (NO EXTENSIONS without consulting me first!)
+- TigerHacks Next Weekend!
+
+## Co-Enrollment
+
+- New Assignment on Canvas.
+- Opportunity to get first dibs on classes.
+    - Like 2050, Calculus, Physics, etc.
+- Co-enrollment is optional, filling out the form is MANDATORY. (Leave it balnk if you don't want to co-enroll)
+- Due October 12 @ 6PM
+- Rank your Options 1-6 (1 is highest)
+- Must have 4 in same class to co-enroll. (Discuss with your compatriots)
+- Can do max of 3 Classes.
+
 ## First things first
 
-- You made a GitHub account and downloaded the desktop client, right????
-- If not, do that now!
-- Post your github username in the slack channel, I need to add you as a collaborator
+- You made a GitHub account, right????
+- Download the Github Desktop Client
 - Check your email and accept invitation
 
 ## Git
@@ -12,7 +27,6 @@
 - "Easy" way to store of multiple “copies” or versions of code
 - Allows revisions and rollbacks to previous versions
 - Works both on your computer and over the internet
-
 
 ### Basic things you can do
 
@@ -43,8 +57,10 @@
     - Create another copy that can be separate from the original version
 
     - Typically used for:
-        - Collaboration – Each member gets their own branch
-        - Concurrency – Maintaining multiple versions of same software 
+        - Collaboration 
+            – Each member gets their own branch
+        - Concurrency
+            – Maintaining multiple versions of same software 
             - (e.g. Windows 8 & 10 or Yosemite and Sierra would be different branches)
 
     - Main branch is called the “master”
@@ -99,10 +115,10 @@
     - Save it wherever (Preferably in a GitHub folder)
 
 3. Make a Change
-    - If you have Atom Installed, right click on repo name or click on Atom icon in upper right corner.
+    - If you have Atom or VSCode Installed, right click on repo name or click on Atom icon in upper right corner.
     - If not, Right click on repo name (left side) and select open in explorer (or Finder)
-    - Open main.c in your text editor of choice (brackets, sublime, notepad, etc) Don’t use the 1050 server
-    - Add a printf with your name and save
+    - Open main.md in your text editor of choice (brackets, sublime, notepad, etc) Don’t use the 1050 server
+    - Add your name and save
 
 4. Commit Changes
     - Go to desktop client, make sure you’re on the changes tab.
