@@ -52,9 +52,9 @@ This class is a pass/fail course. To pass, students must complete ALL of the fol
 |8 | Oct 12 | Hackathons 101            |             |           |
 |9 | Oct 19 | Security                  |             |           |
 |10| Oct 26*| Study Abroad/Myers-Briggs |             | No DeSouza|
-|11| Nov 2  | Research                  |             |           |
-|12| Nov 9  | The Big Picture           |             |           |
-|13| Nov 16 | Study in Emoji            |             |           |
+|11| Nov 2  | Research                  |             | DeSouza Teaches|
+|12| Nov 9  | Study in Emoji            |             |           |
+|13| Nov 16 | The Big Picture           |             |           |
 |14| Nov 23 | **NO CLASS**              |             |           |
 |15| Nov 30 | Grand Challenge Final     |             |           |
 |16| Dec 7  | Last Day                  |             |           |
