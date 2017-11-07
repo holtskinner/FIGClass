@@ -1,6 +1,21 @@
 # Study in Emoji
 *The Internationalization of Code*
 
+## Announcements
+
+- About last week...
+
+- Self Plug: Show-Me Opera Scenes Program Friday, Nov. 10 @ 7 PM in Missouri Theatre
+    - Free with MU ID
+
+- I know about the Co-Enrollment Conflict, I've talked to my people.
+    - Safe bet, pick a different 2050 lab.
+
+- Week after Thanksgiving (Nov 30) In-Class Presentations
+    - There better be improvements!
+
+- Today's class will end at 4PM, because Opera rehearsal
+
 ## Intro to Emoji & the Unicode Consortium
 
 https://youtu.be/tITwM5GDIAI
