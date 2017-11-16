@@ -1,5 +1,10 @@
 # The Big Picture
 
+# Announcements
+
+- Final Project Presentations - Week After Thanksgiving! November 30th in Class
+- Engineering Grand Challenges (1 Team) - December 1st @ 6PM in Stotler Lounge, Memorial Union
+
 # Frameworks & Libraries
 
 - In production, you don't reinvent the wheel for everything like you do in 1050.
@@ -150,7 +155,7 @@ public class Hello1
 
 # Java
 
-- (Probably) Most in-use programming Language in industry.
+- (Probably) Most in-use programming language in industry.
 - Object-Oriented
 - Does a lot of stuff for you (Memory Management)
 - Almost every programmer knows it.
@@ -185,7 +190,7 @@ public class HelloWorld {
 
 - One of the first backend Web Dev Languages
 - Works on almost any web server
-- Has a bad reputation nowadays.
+- Has a bad reputation nowadays for security.
 
 ```php
 <?php
@@ -294,7 +299,7 @@ https://www.youtube.com/watch?v=blSzwPcL5Dw
 - Designed as a way to “modularize” and reuse code
 - C is not object-oriented
 - Majority of popular languages are OO
-- Java is most popular
+- Java is most in-use
 - Objects are nouns, methods are verbs
 - Like a structure, but with functions inside of it (called methods)
 - Variables inside objects are called fields
